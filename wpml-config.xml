@@ -1,0 +1,81 @@
+<wpml-config>
+    
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="2">services</custom-type>
+        <custom-type translate="3">adoption</custom-type>
+        <custom-type translate="4">team</custom-type>
+        <custom-type translate="5">slider</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="2">services_category</taxonomy>
+        <taxonomy translate="3">adoption_category</taxonomy>
+        <taxonomy translate="4">team_category</taxonomy>
+        <taxonomy translate="5">slider_category</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="woof">
+            <key name="contact-address" />
+            <key name="page-breadcrumb-text" />
+            <key name="error-page-title" />
+            <key name="error-page-sbtitle" />
+            <key name="error-page-button" />
+            <key name="adoption-page-tile" />
+            <key name="adopt-read-more" />
+            <key name="services-page-tile" />
+            <key name="blog-page-tile" />
+            <key name="arch-page-title" />
+            <key name="cat-page-title" />
+            <key name="tag-page-title" />
+            <key name="src-page-title" />
+            <key name="blog-read-more" />
+            <key name="translet_opt_10" />
+            <key name="translet_opt_11" />
+            <key name="translet_opt_12" />
+            <key name="translet_opt_13" />
+            <key name="translet_opt_14" />
+            <key name="translet_opt_15" />
+            <key name="translet_opt_16" />
+            <key name="translet_opt_17" />
+            <key name="translet_opt_22" />
+            <key name="copyright" />
+        </key>
+        
+    </admin-texts>    
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>    
+</wpml-config>

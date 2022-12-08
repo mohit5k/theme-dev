@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-26 13:24+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:27
+msgid "Go back to home"
+msgstr ""
+
+#: adoption.php:68
+msgid "More Info"
+msgstr ""
+
+#: comments.php:13
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:18
+msgid "Your Email*"
+msgstr ""
+
+#: comments.php:26
+msgid "Your Comment*"
+msgstr ""
+
+#: comments.php:29
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:16
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:89
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:90
+msgid " / "
+msgstr ""
+
+#: functions.php:104
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:117
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:119
+msgid "This area for Blog widgets."
+msgstr ""
+
+#: functions.php:130
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:132
+msgid "This area for Page Sidebar widgets."
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:145
+msgid "This area for footer widget 1."
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:158
+msgid "This area for footer widget 2."
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:171
+msgid "This area for footer widget 3."
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:184
+msgid "This area for footer widget 4."
+msgstr ""
+
+#: functions.php:195
+msgid "Services Page Widget"
+msgstr ""
+
+#: functions.php:197
+msgid "This area for services page widget."
+msgstr ""
+
+#: includes/functions.php:26
+msgid "Redux Framework"
+msgstr ""
+
+#: includes/functions.php:34
+msgid "Visual Composer"
+msgstr ""
+
+#: includes/functions.php:41
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/functions.php:48
+msgid "Woof Plugin"
+msgstr ""
+
+#: includes/functions.php:55
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/functions.php:61
+msgid "Meta Box"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "Meta Box Group"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "WP Widget Importer & Exporter"
+msgstr ""
+
+#: includes/functions.php:83
+msgid "Envato Market"
+msgstr ""
+
+#: includes/style.php:26
+msgctxt "Open+Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/header/title-section-10.php:14
+msgid "Pet Training"
+msgstr ""
+
+#: template-parts/header/title-section-10.php:26
+#: template-parts/header/title-section-2.php:26
+#: template-parts/header/title-section-3.php:27
+#: template-parts/header/title-section-4.php:26
+#: template-parts/header/title-section-5.php:26
+#: template-parts/header/title-section-6.php:26
+#: template-parts/header/title-section-7.php:26
+#: template-parts/header/title-section-8.php:22
+#: template-parts/header/title-section-9.php:26
+#: template-parts/header/title-section.php:37
+#: template-parts/header/title-section.php:76
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/title-section-2.php:14
+#: template-parts/header/title-section-3.php:15
+msgid "Our Blog"
+msgstr ""
+
+#: template-parts/header/title-section-4.php:14
+msgid "Archive : "
+msgstr ""
+
+#: template-parts/header/title-section-5.php:14
+msgid "Category : "
+msgstr ""
+
+#: template-parts/header/title-section-6.php:14
+msgid "Tag : "
+msgstr ""
+
+#: template-parts/header/title-section-7.php:12
+#: template-parts/header/title-section-7.php:14
+#: template-parts/header/title-section-7.php:30
+#, php-format
+msgid " \"%s\""
+msgstr ""
+
+#: template-parts/header/title-section-7.php:14
+msgid "Search Results for : "
+msgstr ""
+
+#: template-parts/header/title-section-8.php:13
+#: template-parts/header/title-section-8.php:25
+msgid "Error Page"
+msgstr ""
+
+#: template-parts/header/title-section-9.php:14
+msgid "Adopt a Pet"
+msgstr ""
+
+#: template-parts/posttype/default.php:23 template-parts/posttype/image.php:24
+#: template-parts/posttype/video.php:27
+msgid "Read More"
+msgstr ""
+
+#: template-parts/posttype/default.php:25 template-parts/posttype/image.php:26
+#: template-parts/posttype/video.php:29
+msgid "&rarr;"
+msgstr ""
+
+#: template-parts/search/left.php:31 template-parts/search/right.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/search/left.php:35 template-parts/search/right.php:50
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
